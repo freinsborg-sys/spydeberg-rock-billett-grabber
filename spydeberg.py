@@ -23,7 +23,6 @@ REFRESH_SECONDS = 0
 MAX_ATTEMPTS = 15
 
 # Ønsket antall.
-# NB: Scriptet velger ikke antallet automatisk ennå.
 QUANTITY = 5
 
 # Tekster som sannsynligvis identifiserer riktig billett.
